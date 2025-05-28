@@ -6,12 +6,12 @@ A lightweight and secure Subscription Management Microservice built with FastAPI
 
 ## 📌 Key Features
 
-- 🔐 JWT Authentication  
-- ⚙️ RESTful API to manage subscriptions and plans  
-- 💡 Swagger UI for API testing and documentation  
-- 🧪 Fully tested with Postman  
+- 🔐 **JWT Authentication**  
+- ⚙️ **RESTful API** to manage subscriptions and plans  
+- 💡 **Swagger UI** for API testing and documentation  
+- 🧪 Fully tested with **Postman**  
 - 🗂️ Modular Code Structure for scalability  
-- 🔧 Supports `.env` configuration for secure settings  
+- 🔧 Supports **.env** configuration for secure settings  
 
 ---
 
@@ -24,7 +24,3 @@ A lightweight and secure Subscription Management Microservice built with FastAPI
 - **Config:** Environment variables via `.env` file  
 - **Error Handling:** Centralized with proper HTTP status codes  
 - **API Style:** RESTful with proper route design and validation  
-
----
-
-
